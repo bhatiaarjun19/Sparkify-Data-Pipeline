@@ -36,6 +36,7 @@ In order to have a copy of the project up and running locally, you will need to 
 - Python and Apache Airflow.
 
 ## Authors
-- Jonathan Kamau - [Github Profile](https://github.com/jonathankamau)
+- Arjun Bhatia - [Github Profile](https://github.com/bhatiaarjun19)
+                 [linkedinProfile](https://www.linkedin.com/in/arjun-bhatia-800843106/)
 
 
