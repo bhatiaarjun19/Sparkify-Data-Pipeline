@@ -1,4 +1,4 @@
-# UDEND Sparkify Data Pipeline Project with Apache Airflow
+# Sparkify Data Pipeline Project with Apache Airflow
 The purpose of this project is to build a dynamic ETL data pipeline that utilizes automation and monitoring. The data pipeline is built from reusable tasks allows for easy backfills. It utilizes custom operators to perform tasks  such as staging the data, filling the data warehouse, and running a check on the data as the final step so as to to catch any discrepancies in the datasets.
 
 ## Database Schema Design
